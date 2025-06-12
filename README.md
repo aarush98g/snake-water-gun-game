@@ -7,9 +7,11 @@ step 1: run the game
 <br>
 step 2: Enter your choice for example type: "snake" if you want to choose snake 
 <br>
-example output: you choose snake
+example output:
 <br>
-                computer choose water
+you choose snake
 <br>
-                you won
+computer choose water
+<br>
+you won
               
